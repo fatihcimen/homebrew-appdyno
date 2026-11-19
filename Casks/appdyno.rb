@@ -1,6 +1,6 @@
 cask "appdyno" do
-  version "1.3.2"
-  sha256 "59a653a46c26c64a87ccd3f67adf186f1d6892c8703a2ed063707ed555573708"
+  version "1.3.3"
+  sha256 "bf391abfb419959af76e71b4ff8fc9189c5ba53d1b2226d2926d82f23a26caca"
 
   url "https://github.com/fatihcimen/appdyno/releases/download/v#{version}/Appdyno-#{version}-arm64.dmg"
   name "Appdyno"
